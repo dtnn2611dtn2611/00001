@@ -22,4 +22,4 @@
 
 
 
-<span style="display:none;">[Canonical link] ( ）</span>
+<span style="display:none;">[Canonical link] (https://github.com/dtnn2611dtn2611/00001 ）</span>
